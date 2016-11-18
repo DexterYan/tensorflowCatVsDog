@@ -16,7 +16,6 @@ Third, download the [dataset](https://www.kaggle.com/c/dogs-vs-cats/data) from  
 
 ### 3. Usage
 Active the tensorflow
--
 To train the neural network, run
 ```
 python classifier.py
