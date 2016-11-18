@@ -11,7 +11,8 @@ Second, install these library by pip
 - [Python Imaging Library](http://www.pythonware.com/products/pil/)
 - [matplotlib](http://matplotlib.org/)
 
-Third, download the [dataset](https://www.kaggle.com/c/dogs-vs-cats/data) from  kaggle. Put the train image into train folder
+Third, download the [dataset](https://www.kaggle.com/c/dogs-vs-cats/data) from  kaggle. Put the train image into train folder  
+
 
 ### 3. Usage
 Active the tensorflow
